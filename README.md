@@ -1,4 +1,8 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+**English** | [使用 GitHub Actions 云编译 OpenWrt - 图文 - 中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+
+# Slogan
+
+> JustOpenWrt,你的专属❤软路由❤.
 
 # Actions-OpenWrt
 
