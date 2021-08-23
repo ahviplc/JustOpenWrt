@@ -22,6 +22,15 @@ https://github.com/fw876/helloworld
 
 GitHub - vernesong/OpenClash: A Clash Client For OpenWrt
 https://github.com/vernesong/OpenClash
+
+openwrt云编译教程 – Doctor's Secret
+http://www.dsecret.com/0069.html
+
+Index of /lede/x86_64/
+https://imgs.mpdn.fun:8443/lede/x86_64/
+
+OpenWRT 软件包中文对照说明 - 资源分享 - 网吧软件
+http://www.wbini.com/id-12.html
 ```
 
 > https://github.com/facerleo/openwrt-owner
