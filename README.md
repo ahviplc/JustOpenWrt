@@ -28,6 +28,41 @@ https://github.com/vernesong/OpenClash
 
 > https://github.com/ahviplc/JustOpenWrt
 
+```markdown
+To connect to this session copy and paste the following into a terminal or browser:
+CLI: ssh at6ACtVJN8vwsVku7dawQRAYk@nyc1.tmate.io
+URL: https://tmate.io/t/at6ACtVJN8vwsVku7dawQRAYk
+TIPS: Run 'touch /tmp/continue' to continue to the next step.
+
+# 命令
+
+cd openwrt
+
+make menuconfig
+
+进行下面一些列配置之后
+no1. Target Images 
+-> 选中 Build GRUB images(*) Build LiveCD images(ISO) Build VMware images files(VMDK)
+-> Kernet partition szie (iN MB) 16 改为 100  和 Root filesystem partition szie (iN MB) 160 改为 260
+
+no2. Global build settings
+Enable ipv6 support in packages 保持默认即可
+
+no3. LuCI > application
+选中你喜欢的插件
+推荐必选
+docker | ssr-plus | ddns | clash | commands | ttyd | adblock | ***
+
+no4. LuCI > Themes
+推荐选中的主题
+argon_new
+或其他你喜欢的
+atmaterial | ifit | material | netgear | opentomato | opentomcat | opentopd
+
+执行退出命令
+logout
+```
+
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
