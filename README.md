@@ -26,11 +26,29 @@ https://github.com/vernesong/OpenClash
 openwrt云编译教程 – Doctor's Secret
 http://www.dsecret.com/0069.html
 
-Index of /lede/x86_64/
+Index of /lede/x86_64/ -【https://github.com/bleach1991/lede】
 https://imgs.mpdn.fun:8443/lede/x86_64/
+
+GitHub - bleach1991/lede
+https://github.com/bleach1991/lede
 
 OpenWRT 软件包中文对照说明 - 资源分享 - 网吧软件
 http://www.wbini.com/id-12.html
+
+DDNSTO 内网穿透
+https://www.ddnsto.com/
+
+GitHub - linkease/docker_ddnsto: docker for ddnsto
+https://github.com/linkease/docker_ddnsto
+
+Index of /binary/ddnsto/synology/ - KoolShare 固件下载服务器
+https://firmware.koolshare.cn/binary/ddnsto/synology/
+
+GitHub - tsl0922/ttyd: Share your terminal over the web
+https://github.com/tsl0922/ttyd
+
+GitHub - lisaac/luci-app-dockerman: Docker Manager interface for LuCI
+https://github.com/lisaac/luci-app-dockerman
 ```
 
 > https://github.com/facerleo/openwrt-owner
