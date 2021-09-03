@@ -1,20 +1,23 @@
 """
-PYTHON加密解密字符串 - 谢耳朵的派森笔记 - 博客园
+PYTHON加密解密字符串 - 谢耳朵的派森笔记
 https://www.cnblogs.com/shld/p/10027710.html
 
 安装依赖包：
 pip install pycryptodome
 
-python3字符串base64编解码 - 槛外人666 - 博客园
+python3字符串base64编解码
 https://www.cnblogs.com/kanneiren/p/9981084.html
 
 Base64解码 Base64编码 UTF8 GB2312 UTF16 GBK 二进制 十六进制 解密 - The X 在线工具
 https://the-x.cn/base64
 
-Python解码base64遇到Incorrect padding错误 - wswang - 博客园
+Python解码base64遇到Incorrect padding错误
 https://www.cnblogs.com/wswang/p/7717997.html
 
+python 字节型转字符串
+https://blog.csdn.net/iwilldoitx/article/details/78041593
 """
+
 import base64
 
 from Crypto.Cipher import AES
