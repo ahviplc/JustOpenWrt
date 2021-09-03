@@ -144,8 +144,18 @@ def just_you_never_know():
 
 
 if __name__ == "__main__":
+    # 测试一下
     # test_me()
-    # 执行我 将可见文件再次加密
+    # 方法一
+    # 执行 just_you_know() 之后 可见文本中
+    # 你可获取 JustYouKnow/JustYouKnow.txt.zip 压缩包密码 即可进行解压
+    # 你再次编辑之后
+    # 将 JustYouKnow.txt 放 JustYouKnow目录下 得到文件路径如下 【JustYouKnow/JustYouKnow.txt】
+    # 然后 执行我 将可见文件再次加密 解开注释即可执行
     # just_you_never_know()
+    # 方法二
+    # 上边说了很多废话 你直接新建一个文本文档 命名 JustYouKnow.txt 然后执行 just_you_never_know() 进行加密 更香啊
+    # -------------------------------------------------
     # 执行我 将不可见加密文件 可见
     just_you_know()
+
