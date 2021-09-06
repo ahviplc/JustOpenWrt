@@ -120,7 +120,7 @@ def just_you_never_know():
         print('====== 开始：just_you_never_know======')
         print('')
         # 开始正式操作
-        with open('JustYouKnow.txt', 'r', encoding='UTF-8') as f:
+        with open('JustYouKnow/JustYouKnow.txt', 'r', encoding='UTF-8') as f:
             thisData = f.read()
             # 将thisData进行加密加盐编码
             thisData_plus = encrypt(thisData, "JustYouKnow", "LC")
